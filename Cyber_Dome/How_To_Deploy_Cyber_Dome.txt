@@ -1,0 +1,18 @@
+How To Deploy Cyber Dome
+
+
+Verify Folder contains how to deploy text file, application for baselining the system, text file for storing file hashes, file containing password for admin account, and text file containg wmic command to run for creating a system restore point.
+First create a system restore point so if anything goes wrong for unforseen reason system is safe and zero impact occurs to personal data.
+
+Second, Save text file for admin account, and hashing text file to a location you are likely to remember as the user of your system. This password is a temporary one and as such should not be left unchanged by the user.
+
+Third, Run application and allow changes to be made to firewall, registry, user accounts, and creation of hashes for commonly replaced executables by malware.
+
+Verify firewall shows multiple red block circles for both inbound and outbound, as well as verify whitelisting for known safe url along with blacklisting for some ip's
+When satisfied application has successfully run and done everything as described in here user should create a second restore point by simply running wmic command from step 2 this will provide user a more secure default restore point should user believe an issue developed on system past install of application
+
+User should restart system so UAC can enable to ensure nothing runs as admin by default, and along with this store hashes from earlier if not done so already
+
+Finally, change admin account password to something that is atleast 16-24 characters long and will be remembered. If user needs to write down password this can be done as this is users personal system. In order to change the password after system restart user will have to right click command prompt black tv looking box on desktop, or can also be searched in search bar if needed and same thing done. And change the password to whatever the user prefers. Once this is done you should now have a far more secure system
+
+Cyber Dome Officially deployed congrats and thank you for choosing this software for system security.

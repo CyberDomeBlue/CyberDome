@@ -1,0 +1,3 @@
+Copy and paste everything from cmd.exe all the way to 7 into command prompt and hit enter, this will create a restore point which can be verified by typing in search bar after system restore and it will show an entry. 
+
+cmd.exe /k wmic.exe /Namespace:\\root\subscription Path SystemRestore Call CreateRestorePoint "%DATE%", 100, 7
