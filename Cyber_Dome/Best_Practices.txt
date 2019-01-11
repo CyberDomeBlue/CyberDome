@@ -1,0 +1,15 @@
+1.) Do not click on unknown urls or attachments in emails, if you do not recognize it you probably didnt set it up.
+
+2.) Update your system every week at a minimum so your anti virus has better chance of detecting threats to your system
+
+3.) Create backups of anything you can not afford to lose such as data, company info, personal pictures, personal data
+
+4.) Do not give anyone access to your system unless you firmly know what they are using it for and why
+
+5.) Do not use vulnerable and easily exploitable services such as FTP, RDP, TELNET
+
+6.) Do not access untrusted networks
+
+7.) Try to always use encryption where both possible and practical
+
+8.) If something sent in email sounds too good to be true it likely is, and should be fact checked by searching on search engine for said email, or number to see if reported as malicious, spam, or scam. 
